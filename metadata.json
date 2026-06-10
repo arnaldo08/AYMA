@@ -1,0 +1,6 @@
+{
+  "name": "AYMA HYS",
+  "description": "Aplicación de seguridad e higiene laboral para Argentina, con leyes, decretos, listas de verificación y reportes de hallazgos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
